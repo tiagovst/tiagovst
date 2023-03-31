@@ -7,8 +7,8 @@ I'm Tiago from Brazil, and I'm learning about Development. I really enjoy learni
 <p></p>
 <div>
   <a href="https://github.com/tiagovst">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiagovst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovst&layout=compact&langs_count=16&theme=dracula">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tiagovst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovst&layout=compact&langs_count=16&theme=dracula">
 </div>
   
 <div style="display: inline_block"><br>
@@ -25,5 +25,4 @@ I'm Tiago from Brazil, and I'm learning about Development. I really enjoy learni
 <div> 
   <a href = "mailto:tiago.vassan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiagovsantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
