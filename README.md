@@ -6,7 +6,7 @@ I'm Tiago from Brazil, and I'm learning about Development. I really enjoy learni
 
 <p></p>
 <div>
-  <a href="https://github.com/tiagovst" />
+  <a href="https://github.com/tiagovst"><a/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tiagovst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovst&layout=compact&langs_count=16&theme=dracula" />
 </div>
