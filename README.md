@@ -4,12 +4,15 @@ I'm Tiago from Brazil, and I'm learning about Development. I really enjoy learni
 
 - 🌱 I’m currently learning Java, HTML and CSS 
 
-<p></p>
+<br>
 <div>
   <a href="https://github.com/tiagovst"><a/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tiagovst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovst&layout=compact&langs_count=16&theme=dracula" />
 </div>
+  
+  <hr>
+  <h3>Languages and Tools</h3>  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
