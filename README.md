@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm Tiago Santana
 
-I'm Tiago from Brazil, and I'm learning about Development. I really enjoy learning programming languages and ethical hacking stuff like Cross-site Script. I also like to study protocols and computer networks in general.
+👋 Hi! I'm Tiago, a technology enthusiast with a degree in IT Technician from IFBA, specialized in systems and app programming.
 
-- 🌱 I’m currently learning Java, HTML and CSS 
+🚀 Exploring the world of Pentest on websites and networks since 2020, trying to understand more about online security and how to guarantee its basic requirements: Confidentiality, Availability and Integrity.
+
+💻 I'm also learning Kotlin for mobile applications and improving my front-end side. 
 
 <br>
 <div>
